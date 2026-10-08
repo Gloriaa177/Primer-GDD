@@ -23,6 +23,7 @@ Rage-physics
 ## Jugabilidad
 
 La mecanica principal es subir mediante la propulsión de los disparos del lanzacohetes, intentando alcanzar las plataformas y teniendo en cuenta el daño que te autoinfliges para alcanzar los botiquines que te mantienen a salvo.
+Hay diferentes tipos de munición, cada una con una mecánica única para impulsarte y avanzar en los niveles de diferentes maneras.
 
 ## Publico Objetivo
 
@@ -30,14 +31,16 @@ Edad: 16~30
 
 ## Estilo
 
+3D simple estilizado, , Gore
 
 ## Categoría
 
-
+Singleplayer
 
 ## USP
 
-
+Autodaño -> gestión de la vida
+Las decisiones de como te impulsas son definitivas (una vez disparas hasta que no aterrices no puedes volver a impulsarte)
 
 ## Juegos Similares
 
