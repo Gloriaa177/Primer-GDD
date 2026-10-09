@@ -2,7 +2,7 @@
 
 ## Concepto:
 
-El juego trata sobre un soldado (Sammy) que tiene un lanzacohetes con el que se ayuda a subir por una colina para llegar a lo alto para ir de vuelta al campamento militar en el que reside.
+El juego trata sobre un soldado (Sammy) que tiene un lanzacohetes con el que se ayuda a subir por una colina para llegar a lo alto e ir de vuelta al campamento militar en el que reside.
 
 ## Características:
 
