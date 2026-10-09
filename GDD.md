@@ -31,11 +31,17 @@ Edad: 16~30
 
 ## Estilo
 
-3D simple estilizado, , Gore
+3D simple estilizado, Gore
 
 ## Categoría
 
-Singleplayer
+- Singleplayer
+- Indie
+- Difficult
+- Adventure
+- 2.5D
+- Phychological horror
+- Physics
 
 ## USP
 
@@ -44,7 +50,7 @@ Las decisiones de como te impulsas son definitivas (una vez disparas hasta que n
 
 ## Juegos Similares
 
-Getting over it
-Jump King
-Chained Together
-Only up
+- Getting over it
+- Jump King
+- Chained Together
+- Only up
