@@ -11,3 +11,7 @@ El primer día me encargué principalmente de servir un poco como portavoz, incl
 # Marco Antonio
 
 Me he tenido que encargar tanto del marketing como de la programación del juego. El marketing he tenido que salir de mi zona de "comfort" pero, al final del día, no he tenido problemas para dar a promocionar el producto en la fase de pre-producción. En cuanto a la programación, he tenido varios problemas para conseguir que las física del juego sean buenas e disfrutables; pero al final pude cumplir con mi rol en este proyecto. Todos mis compañeros han hechos sus partes a tiempo y sin problemas.
+
+# Antonio
+
+Al principio ayudé al diseño del juego o la idea de lo que íbamos a hacer. Hemos estado de acuerdo en las decisiones que hemos ido tomando y ha sido un trabajo en equipo bastante fluido, cada uno con sus aportaciones. Me he centrado en el estudio de mercado, diseño y programación de como iba a funcionar el juego para ver si era factible y he ayudado al debate de las distintas respuestas a las tareas.
