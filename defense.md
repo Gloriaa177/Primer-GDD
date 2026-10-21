@@ -7,3 +7,7 @@ Al principio estuve aportando ideas con todo el grupo sobre el estilo visual, el
 
 # Rodrigo
 El primer día me encargué principalmente de servir un poco como portavoz, incluyendo a todo el mundo y consolidándonos como equipo. Posteriormente di bastantes ideas que acabaron quedándose, así como aportar un enfoque crítico y servir como filtro a la hora de tomar sugerencias y decisiones.
+
+# Marco Antonio
+
+Me he tenido que encargar tanto del marketing como de la programación del juego. El marketing he tenido que salir de mi zona de "comfort" pero, al final del día, no he tenido problemas para dar a promocionar el producto en la fase de pre-producción. En cuanto a la programación, he tenido varios problemas para conseguir que las física del juego sean buenas e disfrutables; pero al final pude cumplir con mi rol en este proyecto. Todos mis compañeros han hechos sus partes a tiempo y sin problemas.
