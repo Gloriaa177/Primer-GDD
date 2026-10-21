@@ -1,1 +1,2 @@
-
+# odisea indie
+# Play cordoba
