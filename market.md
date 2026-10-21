@@ -32,7 +32,7 @@ Al ser un videojuego independiente de habilidad y precisión con dificultad elev
   - Ofrecer una segunda plataforma complementaria a PC, con acceso a un ecosistema de consola y juego portátil.
 No hemos querido elegir móviles porque aunque concentran una gran parte del mercado mundial, la precisión de los saltos, el control de la trayectoria y la gestión del autodaño podrían resultar menos cómodos en una pantalla táctil, además el tamaño del mercado móvil no garantiza que un juego tenga buenas ventas.
 Playstation o Xbox podrían ser una plataforma adecuada, por jugar con mando en televisión pero los recursos de desarrollo son limitados y tiene sentido comenzar por PC y valorar una versión para consola posteriormente cuando se haya validad el interés del público.
-## ¿A qué perfil de jugador debería diirigirse?
+## ¿A qué perfil de jugador debería dirigirse?
 Para definir al público objetivo hemos utilizado *Gamer Motivation Model* de Quantic Foundry.
 ### Destacamos 3 aspectos de nuestro juego
 - Desafío de la dificultad elevada
