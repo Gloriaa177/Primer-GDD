@@ -62,7 +62,9 @@ Las decisiones de como te impulsas son definitivas (una vez disparas hasta que n
 Las plataformas objetivo principales para la publicación del juego son Steam e Itch.io.
 
 Estas dos plataformas son la más utilizadas por desarrolladores de videojuegos, tanto indies como desarrolladoras consolidadas, lo que hace que el alcance aumente. Sin embargo, en Itch.io, el rango de personas al que se puede llegar es menor, pero cuenta con la ventaja de publicación gratuita; al contrario que Steam, que cobran 100$ por publicación, además de la comisión estándar de un 30% por venta de videojuegos.
+
 En el caso de Steam, este cuenta con un Sistema de Gestión de Derechos Digitales propio, lo que brinda una comodidad y protección que Itch.io, al carecer de esto, no brinda. Sin embargo, también hace que el juego sea totalmente dependiente de la plataforma.
+
 Otra característica a tener en cuenta es el tamaño límite de las aplicaciones en cada plataforma, siendo ilimitado en el caso de Steam, y de 2 GB para Itch.io para archivos descargables, y de 500 MB en juegos para navegador. Por esto, si se pretende publicar en ambas plataformas, el juego deberá tener un peso inferior al límite que proporciona Itch.io, o diseñar una versión compactada de la aplicación publicada en Steam.
 
 En conclusión, el uso alterno de estas dos plataformas y sus respectivas ventajas puede hacer que el juego alcance a una mayor cantidad de público objetivo de manera óptima.
