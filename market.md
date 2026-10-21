@@ -40,4 +40,4 @@ Para definir al público objetivo hemos utilizado *Gamer Motivation Model* de Qu
 - Emoción, la intensidad, la adrenalina y las sorpresas (cada disparo puede salvar al personaje o provocar una caída)
 ### Por lo tanto el perfil del jugador que busca retos difíciles y experiencias caóticas que podemos resumir en:
 - Perfil demográfico orientativo: Jugador de entre 18 y 35 años, familiarizado con videojuegos de PC que suele interesarse por juegos indies y está dispuesto a invertir tiempo en dominar mecánicas exigentes.
-- P
+- Perfil de *Quantic Foundry* : **Acrobat** (Acróbata), el cual define a un tipo de jugador solitario que disfruta practicando repetidamene hasta dominar desafíos difíciles como celeste, jump king, only up, etc. Además incorpora elementos de **Slayer**  que es un perfil más interesado en la destrucción y el caos, que complementan su temática militar y humor negro, por lo que nuestro público no tiene que pertenecer necesariamente a uno de estos segmentos.
