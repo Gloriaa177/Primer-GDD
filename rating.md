@@ -4,7 +4,7 @@ ClassInd (Brasil) — Clasificación Indicativa /	16 años /	Violencia extrema, 
 
 DGSC (Taiwán) — Comité de Autorregulación de Videojuegos	/ Restringido (18+)	/ Violencia, lenguaje inapropiado
 
-ESRB (Estados Unidos y Canadá) — Junta de Clasificación de Software de Entretenimiento	/ Maduro, 17+ (M)	/ Violencia intensa, sangre y gore, lenguaje
+ESRB (Estados Unidos y Canadá) — Junta de Clasificación de Software de Entretenimiento	/ Maduro, 17+ (M)	/ Violencia intensa, sangre y gore, lenguaje inapropiado
 
 GRAC (Corea del Sur) — Comité de Clasificación y Administración de Juegos	Clasificación rechazada (RC)
 
