@@ -1,5 +1,5 @@
 # Rubén
-yo me encargue de dar ideas de idea basica de juego, del titulo del mismo durante el proyecto, mientras mis compañeros las plasmaban en el GDD
+Yo me encargué de dar ideas de idea básica de juego, del título del mismo durante el proyecto, mientras mis compañeros las plasmaban en el GDD.
 
 
 # Gloria
@@ -19,3 +19,7 @@ Al principio ayudé al diseño del juego o la idea de lo que íbamos a hacer. He
 # Alejandro
 
 Principalmente me encargue de escribir las ideas y cosas que ibamos diciendo para dejarlo plasmado en los diferentes archivos, tambien me encargue de pensar en una buena parte de las tareas de Preproduccion, Produccion y Postproduccion, creando los issues y clasificandolos por prioridad, rol y demas. Tambien cree el repositorio e invite a los participantes del grupo.
+
+# Eduardo
+
+Además de aportar ideas al grupo como el resto de integrantes, me encargué sobre todo de diseñar el plan de publicación del juego en diferentes plataformas y comparar puntos positivos y negativos entre ellas, así como la viabilidad de la publicación en cada plataforma.
