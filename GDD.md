@@ -46,7 +46,8 @@ Edad: 16~30
 ## USP
 
 Autodaño -> gestión de la vida
-Las decisiones de como te impulsas son definitivas (una vez disparas hasta que no aterrices no puedes volver a impulsarte)
+
+Las decisiones de como te impulsas son definitivas (una vez disparas no puedes volver a impulsarte hasta que aterrizas)
 
 ## Juegos Similares
 
@@ -67,4 +68,4 @@ En el caso de Steam, este cuenta con un Sistema de Gestión de Derechos Digitale
 
 Otra característica a tener en cuenta es el tamaño límite de las aplicaciones en cada plataforma, siendo ilimitado en el caso de Steam, y de 2 GB para Itch.io para archivos descargables, y de 500 MB en juegos para navegador. Por esto, si se pretende publicar en ambas plataformas, el juego deberá tener un peso inferior al límite que proporciona Itch.io, o diseñar una versión compactada de la aplicación publicada en Steam.
 
-En conclusión, el uso alterno de estas dos plataformas y sus respectivas ventajas puede hacer que el juego alcance a una mayor cantidad de público objetivo de manera óptima.
+En conclusión, el uso alterno de estas dos plataformas y sus respectivas ventajas, así como la gran diferencia de gustos entre sus respectivos consumidores, puede hacer que el juego alcance a una mayor cantidad de público objetivo de manera óptima.
