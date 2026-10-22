@@ -1,10 +1,10 @@
 # Titulo: Sammy kaze
 
-## Concepto:
+## Concepto
 
 El juego trata sobre un soldado (Sammy) que tiene un lanzacohetes con el que se ayuda a subir por una colina para llegar a lo alto e ir de vuelta al campamento militar en el que reside.
 
-## Características:
+## Características
 
 1. Movimiento en base a la fisica y gravedad
 2. Administración de la salud ( cada vez que disparas te haces daño )
