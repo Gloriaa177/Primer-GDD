@@ -11,7 +11,7 @@ Esta en la otra punta de españa.
 Podemos enseñar el proyecto a mas publico, es la feria mas cercana, evento masivo.
 ## Negativo
 La presentacion de indies no es el foco principal, es facil ser opacado, tendremos que competir con mas de 20 actividades aparte del resto de estudios , hay muy poca informacion del evento.
-# Expotaku granada
+# Expotaku Granada
 24-25 Octubre 2026, Palacio municipal de deportes.
 ## Positivo
 Evento masificado, esta medianamente cerca.
