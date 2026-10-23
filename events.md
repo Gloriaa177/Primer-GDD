@@ -1,6 +1,6 @@
 # Odisea indie
 Iniciativa para potenciar el videojuego español y aumentar la visibilidad.
-21 - 22 Noviembre 2026, a coruña, ExpoCoruña
+21 - 22 Noviembre 2026, A Coruña, ExpoCoruña.
 ## Positivo
 Está dentro de otro evento lo que aumenta aforo del mismo. perfecto para compartir el trabajo con jugadores con interés por los indies y conectar con otros creadores.
 ## Negativo 
