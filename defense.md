@@ -3,7 +3,7 @@ Yo me encargué de dar ideas de idea básica de juego, del título del mismo dur
 
 
 # Gloria
-Al principio estuve aportando ideas con todo el grupo sobre el estilo visual, el tipo de juego y la jugabilidad, además decidimos entre todos como haríamos las tareas. Para el GDD estuve sugiriendo como yo vería la organización hasta ponernos todos de acuerdo. 
+Al principio estuve aportando ideas con todo el grupo sobre el estilo visual, el tipo de juego y la jugabilidad, además decidimos entre todos como haríamos las tareas. Para el GDD estuve sugiriendo como yo vería la organización hasta ponernos todos de acuerdo. Además hice el diseño del stand con mis ideas principalmente y añadiendo todo lo que mis compañeros sugerían.
 
 # Rodrigo
 El primer día me encargué principalmente de servir un poco como portavoz, incluyendo a todo el mundo y consolidándonos como equipo. Posteriormente di bastantes ideas que acabaron quedándose, así como aportar un enfoque crítico y servir como filtro a la hora de tomar sugerencias y decisiones.
